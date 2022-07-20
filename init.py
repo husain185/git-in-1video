@@ -7,3 +7,7 @@ app = Flask(__name__)
 @app.route('/')
 def hello_world():
     return 'Hello, World!'"
+<<<<<<< HEAD
+=======
+#  debug done
+>>>>>>> 496f1580a454671e17f934faeba4ae9976a609c6
